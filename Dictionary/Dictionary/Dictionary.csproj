@@ -97,31 +97,31 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\beach.png" />
-    <Resource Include="Images\Cosmopolitan.png" />
-    <Resource Include="Images\Daiquiri.png" />
-    <Resource Include="Images\Dark n Stormy.png" />
-    <Resource Include="Images\Empty Glass.png" />
-    <Resource Include="Images\French 75.png" />
-    <Resource Include="Images\Gimlet.png" />
-    <Resource Include="Images\Manhattan.png" />
-    <Resource Include="Images\Margarita.png" />
-    <Resource Include="Images\Martinez.png" />
-    <Resource Include="Images\Martini.png" />
-    <Resource Include="Images\Mimosa.png" />
-    <Resource Include="Images\Mint Julep.png" />
-    <Resource Include="Images\Mojito.png" />
-    <Resource Include="Images\Moscow Mule.png" />
-    <Resource Include="Images\Negroni.png" />
-    <Resource Include="Images\Old Fashioned.png" />
-    <Resource Include="Images\Paloma.png" />
-    <Resource Include="Images\Pimms Cup.png" />
-    <Resource Include="Images\Pina Colada.png" />
-    <Resource Include="Images\Sazerac.png" />
-    <Resource Include="Images\Sidecar.png" />
-    <Resource Include="Images\Singapore Sling.png" />
-    <Resource Include="Images\Surfer Girl.png" />
-    <Resource Include="Images\Whiskey Sour.png" />
+    <Resource Include="Images\background.jpg" />
+    <Resource Include="Images\cosmopolitan.jpg" />
+    <Resource Include="Images\daiquiri.jpg" />
+    <Resource Include="Images\DarknStormy.jpg" />
+    <Resource Include="Images\emptyGlass.jpg" />
+    <Resource Include="Images\french75.jpg" />
+    <Resource Include="Images\gimlet.jpg" />
+    <Resource Include="Images\manhattan.jpg" />
+    <Resource Include="Images\margarita.jpg" />
+    <Resource Include="Images\martinez.jpg" />
+    <Resource Include="Images\martini.jpg" />
+    <Resource Include="Images\mimosa.jpg" />
+    <Resource Include="Images\mintJulep.jpg" />
+    <Resource Include="Images\mojito.jpg" />
+    <Resource Include="Images\moscowMule.jpg" />
+    <Resource Include="Images\negroni.jpg" />
+    <Resource Include="Images\oldFashioned.jpg" />
+    <Resource Include="Images\palmona.jpg" />
+    <Resource Include="Images\pimmsCup.jpg" />
+    <Resource Include="Images\pinaColada.jpg" />
+    <Resource Include="Images\sazerac.jpg" />
+    <Resource Include="Images\sideCar.jpg" />
+    <Resource Include="Images\singaporeSling.jpg" />
+    <Resource Include="Images\surferGirl.jpg" />
+    <Resource Include="Images\whiskeySour.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
