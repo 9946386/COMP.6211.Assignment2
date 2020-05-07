@@ -1,0 +1,53 @@
+﻿<Window x:Name="SnakeWindow" x:Class="QueueSnake.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QueueSnake"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" SizeChanged="SnakeWindow_SizeChanged">
+    <Grid x:Name="SnakeGrid" Background="#FF273B3C">
+        <Image x:Name="Image1" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image2" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image3" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image4" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image5" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image6" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image7" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image8" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image9" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image10" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image11" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image12" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image13" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image14" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image15" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image16" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image17" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image18" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image19" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image20" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image21" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image22" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image23" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image24" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image25" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image26" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image27" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image28" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image29" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image30" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image31" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image32" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image33" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image34" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image35" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image36" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image37" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image38" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image39" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image40" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Slider x:Name="SliderDepth" HorizontalAlignment="Left" Height="41" Margin="20,0,0,0" VerticalAlignment="Bottom" Width="194" Minimum="1" Maximum="19" ValueChanged="SliderDepth_ValueChanged" Value="11" Opacity="0.2"/>
+        <Slider x:Name="SliderDirection" HorizontalAlignment="Left" Height="41" Margin="247,0,0,0" VerticalAlignment="Bottom" Width="194" Minimum="1" Maximum="50"  Value="12" ValueChanged="SliderDirection_ValueChanged" Opacity="0.2"/>
+    </Grid>
+</Window>
