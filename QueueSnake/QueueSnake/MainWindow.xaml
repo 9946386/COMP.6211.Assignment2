@@ -46,7 +46,7 @@
         <Image x:Name="Image37" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
         <Image x:Name="Image38" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
         <Image x:Name="Image39" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
-        <Image x:Name="Image40" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/ball.png" Stretch="Fill"/>
+        <Image x:Name="Image40" HorizontalAlignment="Left" Height="20" Margin="100,120,0,0" VerticalAlignment="Top" Width="20" Source="Images/snakeFace.png" Stretch="Fill"/>
         <Slider x:Name="SliderDepth" HorizontalAlignment="Left" Height="41" Margin="20,0,0,0" VerticalAlignment="Bottom" Width="194" Minimum="1" Maximum="19" ValueChanged="SliderDepth_ValueChanged" Value="11" Opacity="0.2"/>
         <Slider x:Name="SliderDirection" HorizontalAlignment="Left" Height="41" Margin="247,0,0,0" VerticalAlignment="Bottom" Width="194" Minimum="1" Maximum="50"  Value="12" ValueChanged="SliderDirection_ValueChanged" Opacity="0.2"/>
     </Grid>
