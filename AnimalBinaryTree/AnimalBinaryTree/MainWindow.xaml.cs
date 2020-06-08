@@ -87,7 +87,7 @@ namespace AnimalBinaryTree
 
             #region Starting text
 
-            TextBlockQuestion.Text = "The Animalary";
+            TextBlockQuestion.Text = "The Animal Quiz";
 
             TextBlockData.Text = "The diagnostic helps you to find out what kind of animal you are. \n\nWhether you live on land or in water, if your slimy or have a shell, or if the males in your species carry their babies until they are ready to be born";
 

@@ -23,7 +23,7 @@
                  HorizontalContentAlignment="Center" IsEnabled="False" FontWeight="Bold"/>
         <Image x:Name="ImageDrink" HorizontalAlignment="Left" Height="300" 
                Margin="129,47,0,0" VerticalAlignment="Top" Width="150" 
-               Source="Images/Empty Glass.png" Opacity="0.7"/>
+               Source="Images/emptyGlass.jpg" Opacity="0.7"/>
         <TextBlock x:Name="TextBlockRecipe" HorizontalAlignment="Left" Height="127" 
                    Margin="300,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" 
                    Width="248" Opacity="0.5"/>
